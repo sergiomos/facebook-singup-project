@@ -5,9 +5,15 @@ Este é um projeto proposto pela Trybe, visando praticar o trabalho em equipe, a
 Deselvolvido por [Alex Smith](https://www.linkedin.com/in/alex-smith-12a451179/) e [Sérgio Martins](https://www.linkedin.com/in/sergiomos/).
 
 ---
+![img](imgs/nota.png)
+
+![img](imgs/facebook-page.png)
+
+---
 
 ## Sumário
 
+- [Como baixar e visualisar o projeto na sua maquina](#Instalando-o-projeto)
 - [Habilidades](#habilidades)
 - [Requisitos do projeto](#requisitos-do-projeto)
 - [Lista de requisitos obrigatórios](#lista-de-requisitos-obrigatórios)
@@ -34,6 +40,20 @@ Deselvolvido por [Alex Smith](https://www.linkedin.com/in/alex-smith-12a451179/)
 
 ---
 
+## Instalando o projeto
+
+```bash
+# Faça o clone deste repositório e entre nele
+$ git clone https://github.com/sergiomos/facebook-singup-project.git
+
+$ cd facebook-singup-project
+
+```
+
+- Abra o arquivo ***index.html***
+
+---
+
 ## Habilidades
 
 Neste projeto, verificaremos se você é capaz de:
@@ -50,20 +70,11 @@ Neste projeto, verificaremos se você é capaz de:
 
 ## ESLint
 
-Para garantir a qualidade do código, vamos utilizar neste projeto os linters ESLint e StyleLint. Assim o código estará alinhado com as boas práticas de desenvolvimento, sendo mais legível e de fácil manutenção! Para rodá-los localmente no projeto, execute os comandos abaixo:
-
-```bash
-npm run lint
-npm run lint:styles
-```
+Para garantir a qualidade do código, vamos utilizar neste projeto os linters ESLint e StyleLint. Assim o código estará alinhado com as boas práticas de desenvolvimento, sendo mais legível e de fácil manutenção!
 
 ---
 
 ## Requisitos do projeto
-
-Caso você faça o download de bibliotecas externas, utilize o diretório libs (à partir da raiz do projeto) para colocar os arquivos (.css, .js, etc...) baixados.
-
-### Lista de requisitos obrigatórios:
 
 ### 1. Crie uma barra azul na parte superior da página
 
